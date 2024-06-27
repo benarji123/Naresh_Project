@@ -1,0 +1,8 @@
+Enter System Value FT/RL only ,
+Enter Environment as TEST /STAGE/DEV/SIT only,
+(USername and Passwords are based on Environmnets)
+=========================================================
+Enter FT Username 
+Change FT Password according to you
+Enter RL Username
+Change RL Password according to you
